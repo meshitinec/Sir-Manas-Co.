@@ -1,1 +1,12 @@
+Lab-5: Use case Analysis
+EN_B04 Team #3 
+A3_example
 
+Problems:
+1. There should be 8 cases, 2 cases for each team number. but they have only 4.
+2. There should be develop feature outlines in the section 3.2 . it also doesn't exsist.
+3. There should be the project title.
+
+Features:
+1. information about each room in the university in file, in DB
+2. 3D photos of each room in the university, also in DB
